@@ -11,6 +11,9 @@ public class Metody
 
         double wynik2 = a.result(20, 0);
         System.out.println(wynik2);
+
+        double wynik3 = a.dodaj(4.15, 24.165);
+        System.out.println(wynik3);
     }
 
     static class Test
@@ -23,6 +26,11 @@ public class Metody
         }
 
         int dodaj (int a, int b)
+        {
+            return a + b;
+        }
+        /* overload - przeciazanie nazwy jednej metody roznymi parametrami, kompilator wybiera domyslnie */
+        double dodaj (double a, double b)
         {
             return a + b;
         }
