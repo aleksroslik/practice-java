@@ -1,4 +1,4 @@
-package com.udemy.project;
+package com.udemy.project; //tematycznie powiazane ze soba klasy - pakunek
 
 public class Statycznosc {
 
