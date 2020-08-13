@@ -13,6 +13,8 @@ public class LoopPractice {
         }
         System.out.println(suma); */
 
+        //zadanie - wypisz co drugi wiersz wartości z tablicy
+
 
         for (int j = 1; j <= 10; j++)
         {

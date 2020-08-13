@@ -15,7 +15,7 @@ public class Enkapsulacja
         else
             System.out.println("za mało środków");
 
-        oszczednosciowe.wyplata(5000);
+        oszczednosciowe.wplata(5000);
 
         System.out.println(oszczednosciowe.getSaldo());
     }
