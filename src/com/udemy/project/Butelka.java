@@ -1,9 +1,5 @@
 package com.udemy.project;
 
-import butelka.length;
-
-import javax.swing.*;
-
 public class Butelka
 {
 
